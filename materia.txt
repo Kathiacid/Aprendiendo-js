@@ -1,0 +1,24 @@
+operadores matematicos:
+
+Numericos= enteros o float
+string=secuencia de cracteres (letra),o incluso una letra
+boolean=true o flase (siempre en minuscula)
+undefinded=tipo de datos no definidos 
+null= datos que no existe
+
+--------------------------------
+operadores logicos:
+< > <= >= = == ===
+
+= !--> me devuelve lo contrario, si es true entonces dara false
+
+operadores unarios:
+
+++---> incrementa uno
+-- -->decrementa
+
+operador asignacion:
+
++= -= *= /= %=
+
+%=--> devuelve el resto de la division
