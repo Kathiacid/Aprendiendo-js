@@ -9,16 +9,65 @@ null= datos que no existe
 --------------------------------
 operadores logicos:
 < > <= >= = == ===
+*******************
 
+<--> Menor que
+> --> Mayor que
+<= -->Menor o igual que
+>= --> Mayor o igual que
+= --> Asignación
+== -->Igualdad (débil): Compara valores convirtiendo tipos si es necesario
+Ejemplo: '5' == 5 → true
+=== --> Igualdad estricta: Compara valores Y tipos sin conversión
 = !--> me devuelve lo contrario, si es true entonces dara false
-
+------------------------------------------------------
 operadores unarios:
+*******************
 
 ++---> incrementa uno
 -- -->decrementa
-
+------------------------------------------------------
 operador asignacion:
-
 += -= *= /= %=
+********************
+
++= --> Suma y asigna
+
+-= --> Resta y asigna
+
+*= --> Multiplica y asigna
+
+/= --> Divide y asigna
 
 %=--> devuelve el resto de la division
+
+-------------------------------------------------------
+if, else if, else, &&(and) || (or) !(not)
+
+*****************************************
+if → "Si" - Ejecuta código solo si la condición es verdadera.
+
+else if → "Si no, si" - Comprueba otra condición si la anterior fue falsa.
+
+else → "Si no" - Ejecuta código si todas las condiciones anteriores fueron falsas.
+
+
+--------------------------------------------------------
+Switch y if
+************
+
+switch: se usa cuando hay un caso concreto por ejemplo un numero que no va a cambiar o que no requiere un rango (meses del año, dias, etc)
+if: se usa mas con rangos y numeros que varian. (edades)
+
+---------------------------------------------------------
+let y var
+**********
+
+let: se usa cuando necesitas una variable que solo exista dentro de un bloque, como en un bucle for o una condición if."
+
+"Declaré let contador = 0 porque solo lo necesito dentro de esta función."
+
+var: era la forma antigua de declarar variables, pero puede causar errores si no tienes cuidado con su alcance."
+
+"Usé var nombre = 'Ana' en un código viejo, pero ahora prefiero let o const."
+
