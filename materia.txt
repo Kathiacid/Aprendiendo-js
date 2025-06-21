@@ -71,14 +71,3 @@ var: era la forma antigua de declarar variables, pero puede causar errores si no
 
 "Usé var nombre = 'Ana' en un código viejo, pero ahora prefiero let o const."
 
-let y var
-**********
-
-let: se usa cuando necesitas una variable que solo exista dentro de un bloque, como en un bucle for o una condición if."
-
-"Declaré let contador = 0 porque solo lo necesito dentro de esta función."
-
-var: era la forma antigua de declarar variables, pero puede causar errores si no tienes cuidado con su alcance."
-
-"Usé var nombre = 'Ana' en un código viejo, pero ahora prefiero let o const."
-
