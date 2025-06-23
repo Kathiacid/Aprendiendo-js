@@ -16,10 +16,9 @@ for (var x=1; x<=20; x++){
 }
 
 //4
-let suma = 0;
 
 for (let x = 1; x <= 5; x++) {
-    suma += x;
+    let suma += x;
 }
 console.log("La suma es: " + suma);
 
