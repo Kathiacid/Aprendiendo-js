@@ -30,4 +30,12 @@ Crea un bucle que imprima la tabla de multiplicar del número 5 (del 5x1 al 5x10
 
 🔹 Ejercicio 7 (extra):
 Haz un bucle que muestre los números del 1 al 100, pero que solo muestre los que sean múltiplos de 10.
+// Ejercicio 5:
+Tienes un arreglo con algunas frutas. Usa un bucle para mostrar cada fruta una por una.
+
+🔹 Ejercicio 6:
+Crea un bucle que imprima la tabla de multiplicar del número 5 (del 5x1 al 5x10).
+
+🔹 Ejercicio 7 (extra):
+Haz un bucle que muestre los números del 1 al 100, pero que solo muestre los que sean múltiplos de 10.
 
